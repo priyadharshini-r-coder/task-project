@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/TaskProject/app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.13541666666666666" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/TaskProject/app/src/main/res/layout/activity_car.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/TaskProject/app/src/main/res/layout/activity_main2.xml" value="0.11594202898550725" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/TaskProject/app/src/main/res/layout/activity_sign_in.xml" value="0.11927083333333334" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/TaskProject/app/src/main/res/layout/activity_sign_in_activityy.xml" value="0.11594202898550725" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/TaskProject/app/src/main/res/layout/activity_sign_up_activityy.xml" value="0.11594202898550725" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/TaskProject/app/src/main/res/layout/carlist_item.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/TaskProject/app/src/main/res/menu/menu_item.xml" value="0.11927083333333334" />
+        <entry key="..\:/Users/Indium Software/AndroidStudioProjects/TaskProject/app/src/main/res/xml/login_default_values.xml" value="0.11927083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
